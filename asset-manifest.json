@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/personal-portfolio/static/css/main.f1cf493d.css",
+    "main.js": "/personal-portfolio/static/js/main.f47fab98.js",
+    "static/media/Main-background.png": "/personal-portfolio/static/media/Main-background.c47eacfb31c56d26ba99.png",
+    "static/media/Photo-profile.png": "/personal-portfolio/static/media/Photo-profile.4d070697e3bfc9a2f58d.png",
+    "static/media/Pensamientos-de-sofá.png": "/personal-portfolio/static/media/Pensamientos-de-sofá.9ad13102f652cb2ec83a.png",
+    "static/media/Yard-Sales.png": "/personal-portfolio/static/media/Yard-Sales.deea6467f54b37681dd2.png",
+    "static/media/GarbataTrial-Medium.ttf": "/personal-portfolio/static/media/GarbataTrial-Medium.de8cf1a501915aa06c3d.ttf",
+    "static/media/GarbataTrial-Bold.ttf": "/personal-portfolio/static/media/GarbataTrial-Bold.d7f4a5c3c91a4b5b32d7.ttf",
+    "static/media/VideoGame.png": "/personal-portfolio/static/media/VideoGame.db9f17854235976995c2.png",
+    "static/media/GarbataTrial-Regular.ttf": "/personal-portfolio/static/media/GarbataTrial-Regular.3ec7b137cc07499bf285.ttf",
+    "static/media/GarbataTrial-Light.ttf": "/personal-portfolio/static/media/GarbataTrial-Light.6f935ab7ad6466800c46.ttf",
+    "static/media/Batata-bit.png": "/personal-portfolio/static/media/Batata-bit.eb12e36023eb7dd385d5.png",
+    "static/media/Wap_Logo.svg": "/personal-portfolio/static/media/Wap_Logo.d69f82d65c43247b92a29808951ae748.svg",
+    "static/media/WP_Logo.svg": "/personal-portfolio/static/media/WP_Logo.001ebf76941352d261ad9d2926a35b2a.svg",
+    "static/media/ToDo.png": "/personal-portfolio/static/media/ToDo.a2faf05162b3dae61784.png",
+    "static/media/Linkedin_Logo.svg": "/personal-portfolio/static/media/Linkedin_Logo.07c71e4d6c11a82f5a5985d8b4eb7594.svg",
+    "static/media/GIT_Logo.svg": "/personal-portfolio/static/media/GIT_Logo.5af8a0351b69c908f8a07af39f309612.svg",
+    "static/media/ReactJS_Logo.svg": "/personal-portfolio/static/media/ReactJS_Logo.b728d4794c22101f14270f720945d698.svg",
+    "static/media/separator.svg": "/personal-portfolio/static/media/separator.2cccabffaaafe865c6c6.svg",
+    "static/media/JS_Logo.svg": "/personal-portfolio/static/media/JS_Logo.21017257c50804d1c1f34a1358912a52.svg",
+    "static/media/HTML_Logo.svg": "/personal-portfolio/static/media/HTML_Logo.e38ee596ad5ca31a7273e80f30dd966c.svg",
+    "static/media/CSS_Logo.svg": "/personal-portfolio/static/media/CSS_Logo.43b8ab5ca4e83501f74201fda73c3212.svg",
+    "static/media/Email-Logo.svg": "/personal-portfolio/static/media/Email-Logo.85b57c85fa6425821bcca50a5892da56.svg",
+    "index.html": "/personal-portfolio/index.html",
+    "main.f1cf493d.css.map": "/personal-portfolio/static/css/main.f1cf493d.css.map",
+    "main.f47fab98.js.map": "/personal-portfolio/static/js/main.f47fab98.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1cf493d.css",
+    "static/js/main.f47fab98.js"
+  ]
+}
