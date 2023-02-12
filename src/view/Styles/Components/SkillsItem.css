@@ -1,0 +1,41 @@
+.barrs{
+ display: flex;
+ align-items: center;
+}
+.barrs .skill-logo{
+ width: 50px;
+}
+.back-barr{
+ position: relative;
+ display: flexs;
+ background-color: white;
+ width: 250px;
+ margin-left: 15px;
+}
+.title-barr{
+ font-size: 1.5rem;
+ width: 65px;
+ background-color: var(--bar-title-color);
+ padding: 5px 0;
+ text-align: center;
+}
+.progress-barr{
+ position: absolute;
+ top: 0;
+ left: 65px;
+ background-color: var(--bar-progress-color);
+ height: 100%
+}
+.progress-barr.a90{
+ width:166.5px;
+}
+.progress-barr.a80{
+ width:148px;
+}
+.progress-barr.a70{
+ width:129.5px;
+}
+.p-skills{
+ margin-left: 15px;
+ font-size: 1.5rem;
+}

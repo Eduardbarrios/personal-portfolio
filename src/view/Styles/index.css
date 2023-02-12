@@ -1,0 +1,36 @@
+@import './vars.css';
+*{
+ box-sizing: border-box;
+ padding: 0;
+ margin: 0;
+}
+@font-face {
+ font-family: "Garbata";
+ src: url(../../../public/Fonts/GarbataFont/GarbataTrial-Regular.ttf) format("truetype");
+ font-weight:normal;
+}
+
+@font-face {
+ font-family: "Garbata";
+ src: url(../../../public/Fonts/GarbataFont/GarbataTrial-Medium.ttf) format("truetype");
+ font-weight:600;
+}
+
+@font-face {
+ font-family: "Garbata";
+ src: url(../../../public/Fonts/GarbataFont/GarbataTrial-Bold.ttf) format("truetype");
+ font-weight: bold;
+}
+@font-face {
+ font-family: "Garbata";
+ src: url(../../../public/Fonts/GarbataFont/GarbataTrial-Light.ttf) format("truetype");
+ font-weight: lighter;
+}
+
+html{
+ font-family: "Garbata", 'Roboto', sans-serif;
+ font-weight:normal;
+ font-size: 62.5%;
+ color: var(--text-principal);
+ background-color: var(--background-color);
+}

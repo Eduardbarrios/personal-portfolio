@@ -1,0 +1,48 @@
+@import '../vars.css';
+
+.projects-section{
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+ align-items: center;
+ height: 500px;
+}
+.projects-container{
+ display: flex;
+ width: 100%;
+ flex-wrap: wrap;
+ justify-content: center;
+ align-items: center;
+ gap: 10px;
+
+ transition-duration: 1s;
+}
+.swiches{
+ display: none;
+ justify-content: center;
+ align-items: center;
+ gap: 10px;
+ margin: 20px 0 ;
+}
+.swiches .swich{
+ width: 10px;
+ height: 10px;
+ background-color: var(--text-principal);
+ border-radius: 50%;
+ cursor: pointer;
+}
+
+.swiches .swich.active{
+ background-color: var(--main-color);
+ width: 15px;
+ height: 15px;
+}
+@media (max-width:650px){
+ .projects-container{
+   flex-wrap: nowrap;
+  }
+
+ .swiches{
+  display: flex;
+ }
+}

@@ -1,0 +1,56 @@
+.main-section{
+ position: relative;
+ display: flex;
+ background-image: url('../../assets/Main-background.png');
+ background-position: center;
+ background-size: cover;
+ padding-top: 80px;
+ margin-bottom: 100px;
+}
+.photo-profile{
+ width: 40%;
+}
+.name-inf{
+ position: absolute;
+ top:180px;
+ right: calc(10%);
+}
+.name-title{
+ font-size: 5rem;
+ color: var(--text-principal);
+ text-align: center;
+}
+.description{
+ font-size: 3rem;
+ color: var(--text-principal);
+ font-weight: 100;
+ text-align: center;
+}
+.prhase{
+ position: absolute;
+ width: 40%;
+ font-size: 3rem;
+ font-weight:normal;
+ color: var(--text-principal);
+ top: 450px;
+ left: calc(50% - 122px);
+}
+.prhase p{
+ text-align: end;
+ margin-top: 10px;
+ font-weight:600;
+}
+@media(max-width: 670px){
+ .main-section{
+  flex-direction: column;
+  align-items: center;
+ }
+ .name-inf{
+  position: initial;
+ }
+ .prhase{
+  position: initial;
+  width: 60%;
+  margin-top: 30px;
+ }
+}

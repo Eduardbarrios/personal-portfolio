@@ -1,0 +1,42 @@
+@import '../vars.css';
+.header{
+ position: fixed;
+ display: flex;
+ width: 100%;
+ justify-content: flex-end;
+ padding-right: 30px;
+ background-color: var(--header-color);
+ z-index: 1;
+}
+
+a{
+ text-decoration: none;
+}
+.nav-bar{
+ display: flex;
+ align-items: center;
+}
+.links_section{
+ display:flex;
+ font-size: 2.9rem;
+ font-weight: bold;
+ color: var(--text-principal);
+ padding: 5px 8px;
+ height: 100%;
+ align-items: center;
+}
+.links_section:hover{
+ background-color: var(--secoond-color);
+ border-bottom: 3px solid var(--bar-progress-color);
+ padding-top: 7px;
+}
+.links_section.onScroll{
+ background-color: var(--secoond-color);
+ border-bottom: 3px solid var(--bar-progress-color);
+ padding-top: 7px;
+}
+@media(max-width:700px){
+ .header{
+  display: none;
+ }
+}
