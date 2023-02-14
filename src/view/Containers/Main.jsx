@@ -11,7 +11,7 @@ const Main = () =>{
     <h2 className="description">Frontend developer</h2>
    </div>
    <span className="prhase">
-   life is the opposite of quicksand, if you don't move, you sink.
+   Life is the opposite of quicksand, if you don't move, you sink.
    <p>-Eduard Barrios</p>
    </span>
   </section>

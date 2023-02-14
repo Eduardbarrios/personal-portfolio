@@ -9,8 +9,8 @@ const About = () => {
   <section className='about-section' id='about-section'>
    <div className='about-me'>
     <h2 className='about-title'>About me</h2>
-    <p className='about-description'>I´m a software developer and a passionate about technology, i like to be updated and always learning something new, i have a wide knowledge in web technologies, but i also have many soft skills that make me a good team member, like active communication, writing, time management and some more.
-    welcome to this little glimpse of a part of my work.</p>
+    <p className='about-description'>I´m a software developer and passionate about technology, i like to be updated and always learning something new, i have a wide knowledge of web technologies, but i also have many soft skills that make me a good team member, like active communication, writing, time management and some more.
+    Welcome to this little glimpse of a part of my work.</p>
    </div>
    <div className='skills'>
     <h2 className='skills-title'>Skills</h2>
