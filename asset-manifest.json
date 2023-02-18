@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/personal-portfolio/static/css/main.f1cf493d.css",
-    "main.js": "/personal-portfolio/static/js/main.f47fab98.js",
+    "main.css": "/personal-portfolio/static/css/main.32710b4e.css",
+    "main.js": "/personal-portfolio/static/js/main.cea02698.js",
     "static/media/Main-background.png": "/personal-portfolio/static/media/Main-background.c47eacfb31c56d26ba99.png",
     "static/media/Photo-profile.png": "/personal-portfolio/static/media/Photo-profile.4d070697e3bfc9a2f58d.png",
     "static/media/Pensamientos-de-sofá.png": "/personal-portfolio/static/media/Pensamientos-de-sofá.9ad13102f652cb2ec83a.png",
@@ -18,17 +18,18 @@
     "static/media/Linkedin_Logo.svg": "/personal-portfolio/static/media/Linkedin_Logo.07c71e4d6c11a82f5a5985d8b4eb7594.svg",
     "static/media/GIT_Logo.svg": "/personal-portfolio/static/media/GIT_Logo.5af8a0351b69c908f8a07af39f309612.svg",
     "static/media/ReactJS_Logo.svg": "/personal-portfolio/static/media/ReactJS_Logo.b728d4794c22101f14270f720945d698.svg",
+    "static/media/CV.svg": "/personal-portfolio/static/media/CV.c2a6d09897f2676cdccb.svg",
     "static/media/separator.svg": "/personal-portfolio/static/media/separator.2cccabffaaafe865c6c6.svg",
     "static/media/JS_Logo.svg": "/personal-portfolio/static/media/JS_Logo.21017257c50804d1c1f34a1358912a52.svg",
     "static/media/HTML_Logo.svg": "/personal-portfolio/static/media/HTML_Logo.e38ee596ad5ca31a7273e80f30dd966c.svg",
     "static/media/CSS_Logo.svg": "/personal-portfolio/static/media/CSS_Logo.43b8ab5ca4e83501f74201fda73c3212.svg",
     "static/media/Email-Logo.svg": "/personal-portfolio/static/media/Email-Logo.85b57c85fa6425821bcca50a5892da56.svg",
     "index.html": "/personal-portfolio/index.html",
-    "main.f1cf493d.css.map": "/personal-portfolio/static/css/main.f1cf493d.css.map",
-    "main.f47fab98.js.map": "/personal-portfolio/static/js/main.f47fab98.js.map"
+    "main.32710b4e.css.map": "/personal-portfolio/static/css/main.32710b4e.css.map",
+    "main.cea02698.js.map": "/personal-portfolio/static/js/main.cea02698.js.map"
   },
   "entrypoints": [
-    "static/css/main.f1cf493d.css",
-    "static/js/main.f47fab98.js"
+    "static/css/main.32710b4e.css",
+    "static/js/main.cea02698.js"
   ]
 }
