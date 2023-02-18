@@ -5,9 +5,14 @@
  align-items: center;
  margin: 100px 0;
 }
+.contact-title{
+ position: relative;
+ font-size: 4rem;
+  bottom: 40px
+}
 .separator{
  width: 90%;
- height: 1px;
+ height: 2px;
  background-image: url(../../assets/separator.svg);
  background-position: center;
 }
@@ -22,4 +27,12 @@
 }
 .contact-link img{
  width: 100%;
+}
+.contact-link.pdf-image{
+ display: flex;
+ background-image: url(../../assets/CV.svg);
+ background-position: center;
+ background-size: contain;
+ background-repeat: no-repeat;
+ width: 40px;
 }

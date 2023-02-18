@@ -1,6 +1,8 @@
 .project-card{
  position: relative;
  width: min-content;
+
+ scroll-snap-align: center;
 }
 .project-img{
  width:180px;

@@ -25,6 +25,7 @@ a{
  height: 100%;
  align-items: center;
 }
+
 .links_section:hover{
  background-color: var(--secoond-color);
  border-bottom: 3px solid var(--bar-progress-color);

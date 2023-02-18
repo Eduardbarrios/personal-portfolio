@@ -7,6 +7,11 @@
  align-items: center;
  height: 500px;
 }
+.projects-title{
+  position: relative;
+  font-size: 4rem;
+   bottom: 40px
+}
 .projects-container{
  display: flex;
  width: 100%;
@@ -40,6 +45,14 @@
 @media (max-width:650px){
  .projects-container{
    flex-wrap: nowrap;
+   justify-content: flex-start;
+   overflow-x: scroll;
+   overscroll-behavior-x: contain;
+   scroll-snap-type: x mandatory;
+  padding-left: 10px;
+  }
+  .projects-container::-webkit-scrollbar{
+    display: none;
   }
 
  .swiches{

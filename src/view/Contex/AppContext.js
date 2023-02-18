@@ -1,6 +1,6 @@
 import React from "react";
 import { Skills, Projects } from "../../logic/data/data";
-import { Carousel, Galeria } from "../../logic/carousel";
+import { Galeria } from "../../logic/carousel";
 import {ScrollHanddle} from '../../logic/ScrollHanddle'
 
 const contex = React.createContext()
@@ -13,7 +13,6 @@ function Provider(props){
   value={{
    Skills,
    Projects,
-   Carousel,
    Galeria,
    ScrollHanddle
   }}
