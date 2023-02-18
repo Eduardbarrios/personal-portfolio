@@ -18,7 +18,7 @@ const Skills = [
   Level: '90',
   image: HTML,
 },
- {Name: 'CSS3',
+ {Name: 'CSS',
   Level: '90',
   image: CSS,
 },
