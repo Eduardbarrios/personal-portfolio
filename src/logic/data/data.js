@@ -46,7 +46,7 @@ const Projects = [
   Description: 'This is a project with the objective of applying the Mobile first design pattern.',
   image: Batatabit,
   RepositoryLink:'https://github.com/Eduardbarrios/Batata-Bit',
-  SiteLink:'https://github.com/Eduardbarrios/Batata-Bit',
+  SiteLink:'https://eduardbarrios.github.io/Batata-Bit/',
  },
  {
   Name: 'Pensamientos de Sofá',
